@@ -6,7 +6,7 @@ layout: default
 ## Motivation
 
 There is a wide range of management applications dealing with different
-aspects of operating system and workload virtualization, e.g. oVirt (data
+aspects of operating system and workload virtualization, e.g., oVirt (data
 center, full OS virt), OpenStack (cloud, full OS virt) and OpenShift (cloud,
 application containers). In terms of infrastructure they all have broadly
 similar requirements for features such as API resource management, distributed
